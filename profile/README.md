@@ -10,6 +10,7 @@ Revopush is the best choice if you're looking for a reliable OTA solution for yo
 - Fully compatible with the existing CodePush SDK
 - Supports the latest React Native versions and the New Architecture
 - Multi-cloud architecture with a CDN for optimal delivery speed ([read our article](https://revopush.org/revopush-speeds-up-react-native-ota))
+- A modern administration panel with team collaboration capabilities.
 - Affordable [pricing](https://revopush.org/pricing) starting at just **$15**
 - Seamless integration with popular CI/CD platforms
 - Enhanced security and advanced analytics
