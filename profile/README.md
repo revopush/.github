@@ -16,7 +16,7 @@ Revopush is the best choice if you're looking for a reliable OTA solution for yo
 
 ## ☁️ Migration 
 
-- Create your free account at [app.revopush.org](https://app.revopush.org/register)
+- Create your free account at [revopush.org](https://app.revopush.org/register)
 - Read our [comprehensive guide](https://revopush.org/full-migration-guide-from-appcenter-codepush-to-revopush) on migrating your AppCenter applications
 - Try the [Revopush SDK](https://github.com/revopush/react-native-code-push) for full support of the New Architecture
 - Follow our CI/CD integration guide for [GitHub Actions](https://revopush.org/ci-cd-automation-with-codepush-and-github-actions), [Bitrise](https://revopush.org/ci-cd-automation-with-bitrise-codepush), or [CircleCI](https://revopush.org/ci-cd-automation-with-circleci-codepush)
@@ -31,6 +31,9 @@ Or open an issue in our repositories:
 
 - [@revopush/react-native-code-push](https://github.com/revopush/react-native-code-push) - React Native Code Push SDK
 - [@revopush/code-push-cli](https://github.com/revopush/code-push-cli) - CLI tools
+- [revopush-github-action](https://github.com/revopush/revopush-github-action) - Github Action
+- [revopush-bitrise-step](https://github.com/revopush/revopush-bitrise-step) - Bitrise integration step
+- [revopush-circleci-orb](https://github.com/revopush/revopush-circleci-orb) - CircleCI integration
 
 
 
