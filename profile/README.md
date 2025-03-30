@@ -1,6 +1,6 @@
 # Revopush
 
-Revopush is the ultimate cloud alternative to React Native CodePush. We offer mobile developers a seamless migration from AppCenter, continuous support for the latest React Native SDK versions, and enhanced integration with popular CI/CD solutions such as GitHub Actions, Bitrise, and CircleCI.
+Revopush is the ultimate cloud alternative to React Native CodePush. We offer mobile developers a seamless migration from App Center, continuous support for the latest React Native SDK versions, and enhanced integration with popular CI/CD solutions such as GitHub Actions, Bitrise, and CircleCI.
 
 Revopush is the best choice if you're looking for a reliable OTA solution for your app.
 
@@ -18,7 +18,7 @@ Revopush is the best choice if you're looking for a reliable OTA solution for yo
 ## ☁️ Migration 
 
 - Create your free account at [revopush.org](https://app.revopush.org/register)
-- Read our [comprehensive guide](https://revopush.org/full-migration-guide-from-appcenter-codepush-to-revopush) on migrating your AppCenter applications
+- Read our [comprehensive guide](https://revopush.org/full-migration-guide-from-appcenter-codepush-to-revopush) on migrating your App Center applications
 - Try the [Revopush SDK](https://github.com/revopush/react-native-code-push) for full support of the New Architecture
 - Follow our CI/CD integration guide for [GitHub Actions](https://revopush.org/ci-cd-automation-with-codepush-and-github-actions), [Bitrise](https://revopush.org/ci-cd-automation-with-bitrise-codepush), or [CircleCI](https://revopush.org/ci-cd-automation-with-circleci-codepush)
 
