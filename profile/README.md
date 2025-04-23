@@ -1,4 +1,4 @@
-# Revopush
+# Revopush - React Native module for CodePush
 
 Revopush is the ultimate cloud alternative to React Native CodePush. We offer mobile developers a seamless migration from App Center, continuous support for the latest React Native SDK versions, and enhanced integration with popular CI/CD solutions such as GitHub Actions, Bitrise, and CircleCI.
 
