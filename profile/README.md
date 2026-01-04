@@ -9,6 +9,7 @@ Revopush is the best choice if you're looking for a reliable OTA solution for yo
 
 - Fully compatible with the existing [CodePush](https://revopush.org/react-native-code-push-client-new-architecture)
 - Supports the latest React Native versions and the New Architecture
+- Supports [Expo SDK integration](https://github.com/revopush/expo-code-push-plugin)
 - Multi-cloud architecture with a CDN for optimal delivery speed ([Revopush OTA delivery speed](https://revopush.org/revopush-speeds-up-react-native-ota))
 - A modern administration panel with team collaboration capabilities.
 - Affordable [ota pricing](https://revopush.org/pricing) starting at just **$15**
@@ -33,6 +34,7 @@ Or open an issue in our repositories:
 - [@revopush/react-native-code-push](https://github.com/revopush/react-native-code-push) - React Native Code Push SDK
 - [@revopush/code-push-cli](https://github.com/revopush/code-push-cli) - CLI tools
 - [revopush-github-action](https://github.com/revopush/revopush-github-action) - Github Action
+- [https://github.com/revopush/expo-code-push-plugin](https://github.com/revopush/expo-code-push-plugin) - Expo plugin
 - [revopush-bitrise-step](https://github.com/revopush/revopush-bitrise-step) - Bitrise integration step
 - [revopush-circleci-orb](https://github.com/revopush/revopush-circleci-orb) - CircleCI integration
 
