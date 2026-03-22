@@ -10,6 +10,7 @@ Revopush is the best choice if you're looking for a reliable OTA solution for yo
 - Fully compatible with the existing [CodePush](https://revopush.org/react-native-code-push-client-new-architecture)
 - Supports the latest React Native versions and the New Architecture
 - Supports [Expo SDK integration](https://github.com/revopush/expo-code-push-plugin)
+- [Bundle diffing](https://revopush.org/revopush-2-0-diff-updates) with embedded bundle support can reduce egress by up to 90%.
 - Multi-cloud architecture with a CDN for optimal delivery speed ([Revopush OTA delivery speed](https://revopush.org/revopush-speeds-up-react-native-ota))
 - A modern administration panel with team collaboration capabilities.
 - Affordable [ota pricing](https://revopush.org/pricing) starting at just **$25**
